@@ -1,4 +1,4 @@
-# mac-address-php
+# memory-cpu-php
 A library to get Memory and CPU usage in PHP
 
 ***Author:*** Md. Nazmul Basher
